@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @aaradhy25tiwari<br>- 👀 I’m interested in Python, Data Science, and Machine Learning<br>- 🌱 I’m currently learning Machine Learning<br>- 💞️ I’m looking to collaborate on interesting data science and machine learning projects<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaradhy-tiwari/)<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: ...
+- 👋 Hi, I’m @aaradhy25tiwari<br>- 👀 I’m interested in Python, Data Science, and Machine Learning<br>- 🌱 I’m currently learning Machine Learning<br>- 💞️ I’m looking to collaborate on interesting data science and machine learning projects<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaradhy-tiwari/)<br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
